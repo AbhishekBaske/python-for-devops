@@ -4,6 +4,12 @@
 
 ## Create a project scaffold
 
+* Create development environment that is cloud-based:
+### Github Notebook
+### Github Codespaces
+### AWS Cloudshell
+### AWS Cloud
+
 ## Command-Lines Tools
 
 ## Microservices
