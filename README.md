@@ -1,6 +1,7 @@
 # python-for-devops
 
-![DevOps-lifecycle-capabilities-1024x621](https://github.com/AbhishekBaske/python-for-devops/assets/72940221/9becba26-665b-4bab-80f6-9208d8eedbe7)
+![devops](https://github.com/AbhishekBaske/python-for-devops/assets/72940221/1d14d757-1c9d-415f-9b55-5c70c002c9fc)
+
 
 ## Create a project scaffold
 
